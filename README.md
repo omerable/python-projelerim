@@ -1,1 +1,1 @@
-# python-projelerim
+# Python Projelerim
